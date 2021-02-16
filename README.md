@@ -7,7 +7,7 @@ Modularna paczka obiektów, rozszerzająca możliwości tworzenia map.
 
 **● Możliwość zablokowania otwierania edytor tekstur.**
 
-**● Możliwość dodania własnych tekstur do edytor tekstur.**
+**● Możliwość dodania własnych tekstur do edytora tekstur.**
 
 **● Możliwość teksturowania aż ośmiu warstw na jednym obiekcie oczywiście który posiada tą opcje.**
 
