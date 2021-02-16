@@ -5,7 +5,7 @@ Modularna paczka obiektów, rozszerzająca możliwości tworzenia map.
 
 **● Brak watermarka na ekranie.**
 
-**● Możliwość zablokowania otwierania edytor tekstur.**
+**● Możliwość zablokowania otwierania edytora tekstur.**
 
 **● Możliwość dodania własnych tekstur do edytora tekstur.**
 
