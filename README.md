@@ -11,13 +11,15 @@ Modularna paczka obiektów, rozszerzająca możliwości tworzenia map.
 
 **● Możliwość teksturowania aż ośmiu warstw na jednym obiekcie oczywiście który posiada tą opcje.**
 
-# Klawiszologia
+# Klawiszologia i komendy
 
 **Wszystkie dostępne w GizmoPaczce:**
 
 **● Klawisz `F2` - odpala edytor tekstur.**
 
 **● Klawisz `PPM - prawy przycisk myszy` - ukrywa i pokazuje myszke w grze gdy jest włączony edytor tekstur.**
+
+**● komenda `/gpupdate` - pobiera aktualizacje gdy jest ona dostępna.**
 
 # Discord
 
