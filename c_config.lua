@@ -16,10 +16,6 @@ editor = {
             [2] = {type="b", tex=dxCreateTexture("ui/layer/b.png", 'argb', true, 'clamp')},
             [3] = {type="c", tex=dxCreateTexture("ui/layer/c.png", 'argb', true, 'clamp')},
             [4] = {type="d", tex=dxCreateTexture("ui/layer/d.png", 'argb', true, 'clamp')},
-            [5] = {type="e", tex=dxCreateTexture("ui/layer/e.png", 'argb', true, 'clamp')},
-            [6] = {type="f", tex=dxCreateTexture("ui/layer/f.png", 'argb', true, 'clamp')},
-            [7] = {type="g", tex=dxCreateTexture("ui/layer/g.png", 'argb', true, 'clamp')},
-            [8] = {type="h", tex=dxCreateTexture("ui/layer/h.png", 'argb', true, 'clamp')},
         },
     },
     textures = {

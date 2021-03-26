@@ -11,6 +11,7 @@ languages = {
         ["selected"] = "Zaznaczona tekstura:",
         ["next"] = "Następna strona",
         ["previous"] = "Poprzednia strona",
+        ["texture"] = "Ilość tekstur:",
     },
     ["english"] = {
         ["none"] = "None",
@@ -18,6 +19,7 @@ languages = {
         ["selected"] = "Selected texture:",
         ["next"] = "Next page",
         ["previous"] = "Previous page",
+        ["texture"] = "Number of textures:",
     },
 }
 

@@ -1,5 +1,5 @@
 <meta>
-    <info author="THEGizmo and XeN" name="GizmoPack - Models And Texture Editor" version="1.5.7" />
+    <info author="THEGizmo and XeN" name="GizmoPack - Models And Texture Editor" version="1.5.9" />
 
 	<script src="c_config.lua" type="client" cache="false" />
     <script src="c_editor.luac" type="client" cache="false" />
@@ -24,37 +24,20 @@
     <file src="ui/layer/b.png" />
     <file src="ui/layer/c.png" />
     <file src="ui/layer/d.png" />
-    <file src="ui/layer/e.png" />
-    <file src="ui/layer/f.png" />
-    <file src="ui/layer/g.png" />
-    <file src="ui/layer/h.png" />
     <file src="ui/bg_bar.png" />
     <file src="ui/bg_main.png" />
 
 	<!-- models -->
-    <file src="models/gp_modular_all.txd"/>
-	<file src="models/gp_tool_all.txd"/>
+    <file src="models/gp_modular.txd"/>
 
-    <file src="models/gp_billboard_1.dff"/>
-	<file src="models/gp_billboard_1.col"/>
+	<file src="models/gp_frame1_door1_2x3.dff"/>
+	<file src="models/gp_frame1_door1_2x3.col"/>
 
-	<file src="models/gp_door_1.dff"/>
-	<file src="models/gp_door_1.col"/>
+	<file src="models/gp_frame1_door1_4x3.dff"/>
+	<file src="models/gp_frame1_door1_4x3.col"/>
 
-	<file src="models/gp_door_2.dff"/>
-	<file src="models/gp_door_2.col"/>
-
-	<file src="models/gp_door_3.dff"/>
-	<file src="models/gp_door_3.col"/>
-
-	<file src="models/gp_door_garage_1.dff"/>
-	<file src="models/gp_door_garage_1.col"/>
-
-	<file src="models/gp_exhibition_all.txd"/>
-	<file src="models/gp_exhibition_1.dff"/>
-	<file src="models/gp_exhibition_1.col"/>
-    <file src="models/gp_exhibition_2.dff"/>
-	<file src="models/gp_exhibition_2.col"/>
+	<file src="models/gp_frame1_door2_4x3.dff"/>
+	<file src="models/gp_frame1_door2_4x3.col"/>
 
 	<file src="models/gp_floor_2x2.dff"/>
 	<file src="models/gp_floor_2x2.col"/>
@@ -65,8 +48,93 @@
 	<file src="models/gp_floor_8x8.dff"/>
 	<file src="models/gp_floor_8x8.col"/>
 
-	<file src="models/gp_floor_channel_2x8.dff"/>
-	<file src="models/gp_floor_channel_2x8.col"/>
+	<file src="models/gp_wall_2x3.dff"/>
+	<file src="models/gp_wall_2x3.col"/>
+
+	<file src="models/gp_wall_4x3.dff"/>
+	<file src="models/gp_wall_4x3.col"/>
+
+	<file src="models/gp_wall_8x3.dff"/>
+	<file src="models/gp_wall_8x3.col"/>
+
+	<file src="models/gp_reception_1.dff"/>
+	<file src="models/gp_reception_1.col"/>
+
+	<file src="models/gp_corner_1.dff"/>
+	<file src="models/gp_corner_1.col"/>
+
+	<file src="models/gp_column_1.dff"/>
+	<file src="models/gp_column_1.col"/>
+
+	<file src="models/gp_rounded_1.dff"/>
+	<file src="models/gp_rounded_1.col"/>
+
+	<file src="models/gp_frame1_window1_2x3.dff"/>
+	<file src="models/gp_frame1_window1_2x3.col"/>
+
+	<file src="models/gp_frame1_window2_4x3.dff"/>
+	<file src="models/gp_frame1_window2_4x3.col"/>
+
+	<file src="models/gp_stairs.txd"/>
+
+	<file src="models/gp_stairs_1.dff"/>
+	<file src="models/gp_stairs_1.col"/>
+
+	<file src="models/gp_gate_1.dff"/>
+	<file src="models/gp_gate_1.col"/>
+
+	<file src="models/gp_frame_gate_1.dff"/>
+	<file src="models/gp_frame_gate_1.col"/>
+
+	<file src="models/gp_roof_1.dff"/>
+	<file src="models/gp_roof_1.col"/>
+
+	<file src="models/gp_roof_2.dff"/>
+	<file src="models/gp_roof_2.col"/>
+
+    <file src="models/gp_prison.txd"/>
+
+	<file src="models/gp_prison_1.dff"/>
+	<file src="models/gp_prison_1.col"/>
+
+	<file src="models/gp_prison_2.dff"/>
+	<file src="models/gp_prison_2.col"/>
+
+	<file src="models/gp_door_arch_2x3.dff"/>
+	<file src="models/gp_door_arch_2x3.col"/>
+
+	<file src="models/gp_door_arch_6x3.dff"/>
+	<file src="models/gp_door_arch_6x3.col"/>
+
+	<file src="models/gp_door_arch_8x3.dff"/>
+	<file src="models/gp_door_arch_8x3.col"/>
+
+	<file src="models/gp_gratings.txd"/>
+
+	<file src="models/gp_gratings_1.dff"/>
+	<file src="models/gp_gratings_1.col"/>
+
+	<file src="models/gp_gratings_2.dff"/>
+	<file src="models/gp_gratings_2.col"/>
+
+	<file src="models/gp_window.txd"/>
+
+	<file src="models/gp_window_1.dff"/>
+	<file src="models/gp_window_1.col"/>
+
+	<file src="models/gp_window_2.dff"/>
+	<file src="models/gp_window_2.col"/>
+
+	<file src="models/gp_window1_1x3.dff"/>
+	<file src="models/gp_window1_1x3.col"/>
+
+	<file src="models/gp_window1_2x3.dff"/>
+	<file src="models/gp_window1_2x3.col"/>
+
+	<file src="models/gp_window1_3x3.dff"/>
+	<file src="models/gp_window1_3x3.col"/>
+
+	<file src="models/gp_picture.txd"/>
 
 	<file src="models/gp_picture_1.dff"/>
 	<file src="models/gp_picture_1.col"/>
@@ -86,28 +154,43 @@
 	<file src="models/gp_picture_6.dff"/>
 	<file src="models/gp_picture_6.col"/>
 
-    <file src="models/gp_prison_grilles_1.dff"/>
-	<file src="models/gp_prison_grilles_1.col"/>
+	<file src="models/gp_frame2_door1_2x3.dff"/>
+	<file src="models/gp_frame2_door1_2x3.col"/>
 
-	<file src="models/gp_prison_grilles_2.dff"/>
-	<file src="models/gp_prison_grilles_2.col"/>
+	<file src="models/gp_frame2_door1_4x3.dff"/>
+	<file src="models/gp_frame2_door1_4x3.col"/>
 
-	<file src="models/gp_railing_all.txd"/>
-	<file src="models/gp_railing_1.dff"/>
-	<file src="models/gp_railing_1.col"/>
-    <file src="models/gp_railing_2.dff"/>
-	<file src="models/gp_railing_2.col"/>
+	<file src="models/gp_frame2_door2_4x3.dff"/>
+	<file src="models/gp_frame2_door2_4x3.col"/>
 
-	<file src="models/gp_roof_sloping_1.dff"/>
-	<file src="models/gp_roof_sloping_1.col"/>
+	<file src="models/gp_channel_1.dff"/>
+	<file src="models/gp_channel_1.col"/>
 
-	<file src="models/gp_roof_sloping_2.dff"/>
-	<file src="models/gp_roof_sloping_2.col"/>
+	<file src="models/gp_floor_6x6.dff"/>
+	<file src="models/gp_floor_6x6.col"/>
 
-	<file src="models/gp_stairs_1.dff"/>
-	<file src="models/gp_stairs_1.col"/>
+	<file src="models/gp_wall_6x3.dff"/>
+	<file src="models/gp_wall_6x3.col"/>
 
-    <file src="models/gp_tool_1.dff"/>
+	<file src="models/gp_billboard.txd"/>
+
+	<file src="models/gp_billboard_1.dff"/>
+	<file src="models/gp_billboard_1.col"/>
+
+	<file src="models/gp_door.txd"/>
+
+	<file src="models/gp_door_1.dff"/>
+	<file src="models/gp_door_1.col"/>
+
+	<file src="models/gp_door_2.dff"/>
+	<file src="models/gp_door_2.col"/>
+
+	<file src="models/gp_door_3.dff"/>
+	<file src="models/gp_door_3.col"/>
+
+	<file src="models/gp_tool.txd"/>
+
+	<file src="models/gp_tool_1.dff"/>
 	<file src="models/gp_tool_1.col"/>
 
 	<file src="models/gp_tool_2.dff"/>
@@ -128,83 +211,21 @@
 	<file src="models/gp_tool_7.dff"/>
 	<file src="models/gp_tool_7.col"/>
 
-    <file src="models/gp_wall_2x3.dff"/>
-	<file src="models/gp_wall_2x3.col"/>
+    <file src="models/gp_exhibition.txd"/>
 
-	<file src="models/gp_wall_4x3.dff"/>
-	<file src="models/gp_wall_4x3.col"/>
+	<file src="models/gp_exhibition_1.dff"/>
+	<file src="models/gp_exhibition_1.col"/>
 
-	<file src="models/gp_wall_8x3.dff"/>
-	<file src="models/gp_wall_8x3.col"/>
+	<file src="models/gp_exhibition_2.dff"/>
+	<file src="models/gp_exhibition_2.col"/>
 
-	<file src="models/gp_wall_corner_1.dff"/>
-	<file src="models/gp_wall_corner_1.col"/>
+    <file src="models/gp_railing.txd"/>
 
-	<file src="models/gp_wall_door_arch_2x3.dff"/>
-	<file src="models/gp_wall_door_arch_2x3.col"/>
+	<file src="models/gp_railing_1.dff"/>
+	<file src="models/gp_railing_1.col"/>
 
-	<file src="models/gp_wall_door_arch_6x3.dff"/>
-	<file src="models/gp_wall_door_arch_6x3.col"/>
-
-	<file src="models/gp_wall_door_arch_8x3.dff"/>
-	<file src="models/gp_wall_door_arch_8x3.col"/>
-
-	<file src="models/gp_wall_frame1_door1_2x3.dff"/>
-	<file src="models/gp_wall_frame1_door1_2x3.col"/>
-
-	<file src="models/gp_wall_frame1_door1_4x3.dff"/>
-	<file src="models/gp_wall_frame1_door1_4x3.col"/>
-
-	<file src="models/gp_wall_frame1_door2_4x3.dff"/>
-	<file src="models/gp_wall_frame1_door2_4x3.col"/>
-
-	<file src="models/gp_wall_frame1_gate1_6x6.dff"/>
-	<file src="models/gp_wall_frame1_gate1_6x6.col"/>
-
-	<file src="models/gp_wall_frame1_window1_2x3.dff"/>
-	<file src="models/gp_wall_frame1_window1_2x3.col"/>
-
-	<file src="models/gp_wall_frame1_window2_4x3.dff"/>
-	<file src="models/gp_wall_frame1_window2_4x3.col"/>
-
-	<file src="models/gp_wall_frame2_door1_2x3.dff"/>
-	<file src="models/gp_wall_frame2_door1_2x3.col"/>
-
-    <file src="models/gp_wall_frame2_door1_4x3.dff"/>
-	<file src="models/gp_wall_frame2_door1_4x3.col"/>
-
-	<file src="models/gp_wall_frame2_door2_4x3.dff"/>
-	<file src="models/gp_wall_frame2_door2_4x3.col"/>
-
-	<file src="models/gp_wall_post_1.dff"/>
-	<file src="models/gp_wall_post_1.col"/>
-
-	<file src="models/gp_wall_rounded_1.dff"/>
-	<file src="models/gp_wall_rounded_1.col"/>
-	
-	<file src="models/gp_wall_table_1.dff"/>
-	<file src="models/gp_wall_table_1.col"/>
-
-    <file src="models/gp_window_frame1_1x3.dff"/>
-	<file src="models/gp_window_frame1_1x3.col"/>
-
-	<file src="models/gp_window_frame1_2x3.dff"/>
-	<file src="models/gp_window_frame1_2x3.col"/>
-
-	<file src="models/gp_window_frame1_3x3.dff"/>
-	<file src="models/gp_window_frame1_3x3.col"/>
-
-	<file src="models/gp_window_grilles_1.dff"/>
-	<file src="models/gp_window_grilles_1.col"/>
-
-	<file src="models/gp_window_grilles_2.dff"/>
-	<file src="models/gp_window_grilles_2.col"/>
-
-	<file src="models/gp_window_panes_1.dff"/>
-	<file src="models/gp_window_panes_1.col"/>
-
-    <file src="models/gp_window_panes_2.dff"/>
-	<file src="models/gp_window_panes_2.col"/>
+	<file src="models/gp_railing_2.dff"/>
+	<file src="models/gp_railing_2.col"/>
 
     <!-- dev -->
     <file src="dev/dev_tv_all.txd" />
