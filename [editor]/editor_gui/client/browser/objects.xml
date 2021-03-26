@@ -1,6 +1,6 @@
 <catalog type="object">
 
-   <group name="A Object Pack - Gizmo Pack v.1.5.7">
+   <group name="A Object Pack - Gizmo Pack v.1.5.9">
       <group name="Accessories">
          <object model="16282" name="gp_tool_1" keywords="" />
          <object model="16283" name="gp_tool_2" keywords="" />
@@ -15,48 +15,50 @@
          <object model="16743" name="gp_railing_2" keywords="" />
       </group>
       <group name="Walls, floors and others">
-         <object model="1853" name="gp_wall_frame1_door1_2x3" keywords="" />
-         <object model="1854" name="gp_wall_frame1_door1_4x3" keywords="" />
-         <object model="1855" name="gp_wall_frame1_door2_4x3" keywords="" />
+         <object model="1853" name="gp_frame1_door1_2x3" keywords="" />
+         <object model="1854" name="gp_frame1_door1_4x3" keywords="" />
+         <object model="1855" name="gp_frame1_door2_4x3" keywords="" />
          <object model="1856" name="gp_floor_2x2" keywords="" />
          <object model="1857" name="gp_floor_4x4" keywords="" />
+         <object model="1911" name="gp_floor_6x6" keywords="" />
          <object model="1858" name="gp_floor_8x8" keywords="" />
          <object model="1859" name="gp_wall_2x3" keywords="" />
          <object model="1860" name="gp_wall_4x3" keywords="" />
+         <object model="1912" name="gp_wall_6x3" keywords="" />
          <object model="1861" name="gp_wall_8x3" keywords="" />
-         <object model="1862" name="gp_wall_table_1" keywords="" />
-         <object model="1863" name="gp_wall_corner_1" keywords="" />
-         <object model="1864" name="gp_wall_post_1" keywords="" />
-         <object model="1865" name="gp_wall_rounded_1" keywords="" />
-         <object model="1866" name="gp_wall_frame1_window1_2x3" keywords="" />
-         <object model="1867" name="gp_wall_frame1_window2_4x3" keywords="" />
+         <object model="1862" name="gp_reception_1" keywords="" />
+         <object model="1863" name="gp_corner_1" keywords="" />
+         <object model="1864" name="gp_column_1" keywords="" />
+         <object model="1865" name="gp_rounded_1" keywords="" />
+         <object model="1866" name="gp_frame1_window1_2x3" keywords="" />
+         <object model="1867" name="gp_frame1_window2_4x3" keywords="" />
          <object model="1868" name="gp_stairs_1" keywords="" />
-         <object model="1869" name="gp_door_garage_1" keywords="" />
-         <object model="1870" name="gp_wall_frame1_gate1_6x6" keywords="" />
-         <object model="1871" name="gp_roof_sloping_1" keywords="" />
-         <object model="1872" name="gp_roof_sloping_2" keywords="" />
-         <object model="1873" name="gp_prison_grilles_1" keywords="" />
-         <object model="1874" name="gp_prison_grilles_2" keywords="" />
-         <object model="1875" name="gp_wall_door_arch_2x3" keywords="" />
-         <object model="1876" name="gp_wall_door_arch_6x3" keywords="" />
-         <object model="1877" name="gp_wall_door_arch_8x3" keywords="" />
-         <object model="1878" name="gp_window_grilles_1" keywords="" />
-         <object model="1879" name="gp_window_grilles_2" keywords="" />
-         <object model="1880" name="gp_window_panes_1" keywords="" />
-         <object model="1881" name="gp_window_panes_2" keywords="" />
-         <object model="1882" name="gp_window_frame1_1x3" keywords="" />
-         <object model="1899" name="gp_window_frame1_2x3" keywords="" />
-         <object model="1900" name="gp_window_frame1_3x3" keywords="" />
+         <object model="1869" name="gp_gate_1" keywords="" />
+         <object model="1870" name="gp_frame_gate_1" keywords="" />
+         <object model="1871" name="gp_roof_1" keywords="" />
+         <object model="1872" name="gp_roof_2" keywords="" />
+         <object model="1873" name="gp_prison_1" keywords="" />
+         <object model="1874" name="gp_prison_2" keywords="" />
+         <object model="1875" name="gp_door_arch_2x3" keywords="" />
+         <object model="1876" name="gp_door_arch_6x3" keywords="" />
+         <object model="1877" name="gp_door_arch_8x3" keywords="" />
+         <object model="1878" name="gp_gratings_1" keywords="" />
+         <object model="1879" name="gp_gratings_2" keywords="" />
+         <object model="1880" name="gp_window_1" keywords="" />
+         <object model="1881" name="gp_window_2" keywords="" />
+         <object model="1882" name="gp_window1_1x3" keywords="" />
+         <object model="1899" name="gp_window1_2x3" keywords="" />
+         <object model="1900" name="gp_window1_3x3" keywords="" />
          <object model="1901" name="gp_picture_1" keywords="" />
          <object model="1902" name="gp_picture_2" keywords="" />
          <object model="1903" name="gp_picture_3" keywords="" />
          <object model="1904" name="gp_picture_4" keywords="" />
          <object model="1905" name="gp_picture_5" keywords="" />
          <object model="1906" name="gp_picture_6" keywords="" />
-         <object model="1907" name="gp_wall_frame2_door1_2x3" keywords="" />
-         <object model="1908" name="gp_wall_frame2_door1_4x3" keywords="" />
-         <object model="1909" name="gp_wall_frame2_door2_4x3" keywords="" />
-         <object model="1910" name="gp_floor_channel_2x8" keywords="" />
+         <object model="1907" name="gp_frame2_door1_2x3" keywords="" />
+         <object model="1908" name="gp_frame2_door1_4x3" keywords="" />
+         <object model="1909" name="gp_frame2_door2_4x3" keywords="" />
+         <object model="1910" name="gp_channel_1" keywords="" />
          <object model="1309" name="gp_billboard_1" keywords="" />
          <object model="1492" name="gp_door_1" keywords="" />
          <object model="1494" name="gp_door_2" keywords="" />
