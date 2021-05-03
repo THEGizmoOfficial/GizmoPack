@@ -11,7 +11,7 @@ Modularna paczka obiektów, rozszerzająca możliwości tworzenia map.
 
 **● Możliwość dodania własnych tekstur do edytora tekstur.**
 
-**● Możliwość teksturowania aż ośmiu warstw na jednym obiekcie oczywiście który posiada tą opcje.**
+**● Możliwość teksturowania aż czterech warstw na jednym obiekcie oczywiście który posiada tą opcje.**
 
 # Klawiszologia i komendy
 
@@ -21,7 +21,7 @@ Modularna paczka obiektów, rozszerzająca możliwości tworzenia map.
 
 **● Klawisz `PPM - prawy przycisk myszy` - ukrywa i pokazuje myszke w grze gdy jest włączony edytor tekstur.**
 
-**● komenda `/gpupdate` - pobiera aktualizacje gdy jest ona dostępna.**
+**● Komenda `/gpupdate` - pobiera aktualizacje gdy jest ona dostępna. (Wymaga uprawnień Admina)**
 
 # Discord
 
