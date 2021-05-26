@@ -27,7 +27,7 @@ Modularna paczka obiektów, rozszerzająca możliwości tworzenia map.
 
 **Discord wsparcia technicznego, informacji o aktualizacjach i nie tylko:**
 
-**● Link - https://discord.com/invite/sRnMQj3v4U**
+**● Link - https://discord.com/invite/QkpgG4UKCP**
 
 # Autorzy
 
