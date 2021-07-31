@@ -1,6 +1,28 @@
 <catalog type="object">
 
-   <group name="A Object Pack - Gizmo Pack v.1.5.9">
+   <group name="A Object Pack - Gizmo Pack v.1.7.9">
+      <group name="Modular Road Content *BETA*">
+         <object model="10743" name="gp_road_1" keywords="" />
+         <object model="10741" name="gp_road_2" keywords="" />
+         <object model="10738" name="gp_road_3" keywords="" />
+         <object model="10737" name="gp_road_4" keywords="" />
+         <object model="10736" name="gp_road_5_20x20" keywords="" />
+         <object model="10735" name="gp_road_5_20x40" keywords="" />
+         <object model="10734" name="gp_road_5_20x60" keywords="" />
+         <object model="10712" name="gp_road_5_20x80" keywords="" />
+         <object model="10711" name="gp_surface_20x20" keywords="" />
+         <object model="10710" name="gp_surface_40x40" keywords="" />
+         <object model="10709" name="gp_surface_60x60" keywords="" />
+         <object model="10708" name="gp_surface_80x80" keywords="" />
+         <object model="10707" name="gp_hill_1" keywords="" />
+         <object model="10706" name="gp_hill_2" keywords="" />
+         <object model="10705" name="gp_hill_3_10x10" keywords="" />
+         <object model="10704" name="gp_hill_3_20x10" keywords="" />
+         <object model="10703" name="gp_hill_3_30x10" keywords="" />
+         <object model="10702" name="gp_hill_3_40x10" keywords="" />
+         <object model="10701" name="gp_line_1" keywords="" />
+         <object model="10700" name="gp_line_2" keywords="" />
+      </group>
       <group name="Accessories">
          <object model="16282" name="gp_tool_1" keywords="" />
          <object model="16283" name="gp_tool_2" keywords="" />
