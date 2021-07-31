@@ -9,8 +9,11 @@ editor = {
     toggleKey = "F2", --| PL - otwieranie gui | ENG - open UI
     language = "polish", --| PL - "polish" | ENG - "english"
     ui = {
-        ["backgroundBar"] = dxCreateTexture("ui/bg_bar.png", 'argb', true, 'clamp'),
+        ["backgroundButton"] = dxCreateTexture("ui/bg_button.png", 'argb', true, 'clamp'),
         ["backgroundMain"] = dxCreateTexture("ui/bg_main.png", 'argb', true, 'clamp'),
+        ["backgroundScroll"] = dxCreateTexture("ui/bg_scroll.png", 'argb', true, 'clamp'),
+        ["light"] = dxCreateFont("ui/font/light.otf", 13),
+        ["semibold"] = dxCreateFont("ui/font/semibold.otf", 13),
         type = {
             [1] = {type="a", tex=dxCreateTexture("ui/layer/a.png", 'argb', true, 'clamp')},
             [2] = {type="b", tex=dxCreateTexture("ui/layer/b.png", 'argb', true, 'clamp')},
@@ -32,3 +35,5 @@ editor = {
         textures = {},
     },
 }
+
+setOcclusionsEnabled(false)

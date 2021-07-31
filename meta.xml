@@ -1,18 +1,22 @@
 <meta>
-    <info author="THEGizmo and XeN" name="GizmoPack - Models And Texture Editor" version="1.5.9" />
+    <info author="THEGizmo and XeN" name="GizmoPack - Models And Texture Editor" version="1.7.9" />
 
 	<script src="c_config.lua" type="client" cache="false" />
+    <script src="c_dev.luac" type="client" cache="false" />
     <script src="c_editor.luac" type="client" cache="false" />
 	<script src="c_model.luac" type="client" cache="false" />
+    <script src="c_road.luac" type="client" cache="false" />
     <script src="c_textures.luac" type="client" cache="false" />
     <script src="c_utils.luac" type="client" cache="false" />
     <script src="g_lang.lua" type="shared" cache="false" />
     <script src="s_textures.lua" type="server" />
     <script src="s_update.luac" type="server" />
-    <file src="version" />
     <file src="shader.fx" />
+    <file src="version" />
 
 	<!-- UI -->
+    <file src="ui/font/light.otf" />
+    <file src="ui/font/semibold.otf" />
     <file src="ui/icon/billboards.png" />
     <file src="ui/icon/floors.png" />
     <file src="ui/icon/gates.png" />
@@ -24,8 +28,9 @@
     <file src="ui/layer/b.png" />
     <file src="ui/layer/c.png" />
     <file src="ui/layer/d.png" />
-    <file src="ui/bg_bar.png" />
+    <file src="ui/bg_button.png" />
     <file src="ui/bg_main.png" />
+    <file src="ui/bg_scroll.png" />
 
 	<!-- models -->
     <file src="models/gp_modular.txd"/>
@@ -227,6 +232,69 @@
 	<file src="models/gp_railing_2.dff"/>
 	<file src="models/gp_railing_2.col"/>
 
+    <!-- road content -->
+    <file src="roads/gp_road.txd"/>
+
+	<file src="roads/gp_road_1.dff"/>
+	<file src="roads/gp_road_1.col"/>
+
+    <file src="roads/gp_road_2.dff"/>
+	<file src="roads/gp_road_2.col"/>
+
+    <file src="roads/gp_road_3.dff"/>
+	<file src="roads/gp_road_3.col"/>
+
+    <file src="roads/gp_road_4.dff"/>
+	<file src="roads/gp_road_4.col"/>
+
+    <file src="roads/gp_road_5_20x20.dff"/>
+	<file src="roads/gp_road_5_20x20.col"/>
+
+    <file src="roads/gp_road_5_20x40.dff"/>
+	<file src="roads/gp_road_5_20x40.col"/>
+
+    <file src="roads/gp_road_5_20x60.dff"/>
+	<file src="roads/gp_road_5_20x60.col"/>
+
+    <file src="roads/gp_road_5_20x80.dff"/>
+	<file src="roads/gp_road_5_20x80.col"/>
+
+    <file src="roads/gp_surface_20x20.dff"/>
+	<file src="roads/gp_surface_20x20.col"/>
+
+    <file src="roads/gp_surface_40x40.dff"/>
+	<file src="roads/gp_surface_40x40.col"/>
+
+    <file src="roads/gp_surface_60x60.dff"/>
+	<file src="roads/gp_surface_60x60.col"/>
+
+    <file src="roads/gp_surface_80x80.dff"/>
+	<file src="roads/gp_surface_80x80.col"/>
+
+    <file src="roads/gp_hill_1.dff"/>
+	<file src="roads/gp_hill_1.col"/>
+
+    <file src="roads/gp_hill_2.dff"/>
+	<file src="roads/gp_hill_2.col"/>
+
+    <file src="roads/gp_hill_3_10x10.dff"/>
+	<file src="roads/gp_hill_3_10x10.col"/>
+
+    <file src="roads/gp_hill_3_20x10.dff"/>
+	<file src="roads/gp_hill_3_20x10.col"/>
+
+    <file src="roads/gp_hill_3_30x10.dff"/>
+	<file src="roads/gp_hill_3_30x10.col"/>
+
+    <file src="roads/gp_hill_3_40x10.dff"/>
+	<file src="roads/gp_hill_3_40x10.col"/>
+
+    <file src="roads/gp_line_1.dff"/>
+	<file src="roads/gp_line_1.col"/>
+
+    <file src="roads/gp_line_2.dff"/>
+	<file src="roads/gp_line_2.col"/>
+    
     <!-- dev -->
     <file src="dev/dev_tv_all.txd" />
 

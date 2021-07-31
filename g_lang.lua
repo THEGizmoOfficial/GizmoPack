@@ -7,7 +7,6 @@
 languages = {
     ["polish"] = {
         ["none"] = "Brak",
-        ["editor"] = "Edytor tekstur",
         ["selected"] = "Zaznaczona tekstura:",
         ["next"] = "Następna strona",
         ["previous"] = "Poprzednia strona",
@@ -15,7 +14,6 @@ languages = {
     },
     ["english"] = {
         ["none"] = "None",
-        ["editor"] = "Texture editor",
         ["selected"] = "Selected texture:",
         ["next"] = "Next page",
         ["previous"] = "Previous page",
