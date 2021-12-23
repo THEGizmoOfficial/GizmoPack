@@ -1,8 +1,6 @@
 ## GizmoPack (MTA:SA)
 Modularna paczka obiektów, rozszerzająca możliwości tworzenia map.
 
-## Chcesz wspomóc rozwój GizmoPack wpłać darowiznę na https://tipply.pl/u/thegizmo
-
 # Zalety
 
 **● Brak watermarka na ekranie.**
