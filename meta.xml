@@ -1,7 +1,5 @@
 <meta>
-    <info author="THEGizmo and XeN" name="GizmoPack - Models And Texture Editor" version="1.7.9" />
-	
-	<min_mta_version client="1.5.8" server="1.5.8" />
+    <info author="THEGizmo and XeN" name="GizmoPack - Models And Texture Editor" version="1.8.9" />
 
 	<script src="c_config.lua" type="client" cache="false" />
     <script src="c_dev.luac" type="client" cache="false" />
@@ -15,9 +13,9 @@
     <script src="s_update.luac" type="server" />
     <file src="shader.fx" />
     <file src="version" />
+    <file src="[editor]/editor_gui/client/browser/objects.xml" />
 
 	<!-- UI -->
-    <file src="ui/font/light.otf" />
     <file src="ui/font/semibold.otf" />
     <file src="ui/icon/billboards.png" />
     <file src="ui/icon/floors.png" />
@@ -64,6 +62,15 @@
 	<file src="models/gp_wall_8x3.dff"/>
 	<file src="models/gp_wall_8x3.col"/>
 
+    <file src="models/gp_wall_arch_2x3.dff"/>
+	<file src="models/gp_wall_arch_2x3.col"/>
+
+	<file src="models/gp_wall_arch_6x3.dff"/>
+	<file src="models/gp_wall_arch_6x3.col"/>
+
+	<file src="models/gp_wall_arch_8x3.dff"/>
+	<file src="models/gp_wall_arch_8x3.col"/>
+
 	<file src="models/gp_reception_1.dff"/>
 	<file src="models/gp_reception_1.col"/>
 
@@ -73,8 +80,20 @@
 	<file src="models/gp_column_1.dff"/>
 	<file src="models/gp_column_1.col"/>
 
+    <file src="models/gp_column_2.dff"/>
+	<file src="models/gp_column_2.col"/>
+
 	<file src="models/gp_rounded_1.dff"/>
 	<file src="models/gp_rounded_1.col"/>
+
+    <file src="models/gp_rounded_2.dff"/>
+	<file src="models/gp_rounded_2.col"/>
+
+    <file src="models/gp_rounded_3.dff"/>
+	<file src="models/gp_rounded_3.col"/>
+
+    <file src="models/gp_rounded_4.dff"/>
+	<file src="models/gp_rounded_4.col"/>
 
 	<file src="models/gp_frame1_window1_2x3.dff"/>
 	<file src="models/gp_frame1_window1_2x3.col"/>
@@ -89,6 +108,11 @@
 
 	<file src="models/gp_gate_1.dff"/>
 	<file src="models/gp_gate_1.col"/>
+
+    <file src="models/gp_handrail.txd"/>
+
+    <file src="models/gp_handrail_1.dff"/>
+	<file src="models/gp_handrail_1.col"/>
 
 	<file src="models/gp_frame_gate_1.dff"/>
 	<file src="models/gp_frame_gate_1.col"/>
@@ -184,6 +208,11 @@
 	<file src="models/gp_billboard_1.dff"/>
 	<file src="models/gp_billboard_1.col"/>
 
+    <file src="models/gp_banner.txd"/>
+    
+	<file src="models/gp_banner_1.dff"/>
+	<file src="models/gp_banner_1.col"/>
+
 	<file src="models/gp_door.txd"/>
 
 	<file src="models/gp_door_1.dff"/>
@@ -194,6 +223,9 @@
 
 	<file src="models/gp_door_3.dff"/>
 	<file src="models/gp_door_3.col"/>
+
+    <file src="models/gp_door_4.dff"/>
+	<file src="models/gp_door_4.col"/>
 
 	<file src="models/gp_tool.txd"/>
 
