@@ -1,6 +1,6 @@
 <catalog type="object">
 
-   <group name="A Object Pack - Gizmo Pack v.1.7.9">
+   <group name="A Object Pack - Gizmo Pack v.1.8.9">
       <group name="Modular Road Content *BETA*">
          <object model="10743" name="gp_road_1" keywords="" />
          <object model="10741" name="gp_road_2" keywords="" />
@@ -51,10 +51,15 @@
          <object model="1862" name="gp_reception_1" keywords="" />
          <object model="1863" name="gp_corner_1" keywords="" />
          <object model="1864" name="gp_column_1" keywords="" />
+         <object model="1913" name="gp_column_2" keywords="" />
          <object model="1865" name="gp_rounded_1" keywords="" />
+         <object model="1915" name="gp_rounded_2" keywords="" />
+         <object model="1916" name="gp_rounded_3" keywords="" />
+         <object model="1917" name="gp_rounded_4" keywords="" />
          <object model="1866" name="gp_frame1_window1_2x3" keywords="" />
          <object model="1867" name="gp_frame1_window2_4x3" keywords="" />
          <object model="1868" name="gp_stairs_1" keywords="" />
+         <object model="1914" name="gp_handrail_1" keywords="" />
          <object model="1869" name="gp_gate_1" keywords="" />
          <object model="1870" name="gp_frame_gate_1" keywords="" />
          <object model="1871" name="gp_roof_1" keywords="" />
@@ -64,6 +69,9 @@
          <object model="1875" name="gp_door_arch_2x3" keywords="" />
          <object model="1876" name="gp_door_arch_6x3" keywords="" />
          <object model="1877" name="gp_door_arch_8x3" keywords="" />
+         <object model="1918" name="gp_wall_arch_2x3" keywords="" />
+         <object model="1919" name="gp_wall_arch_6x3" keywords="" />
+         <object model="1920" name="gp_wall_arch_8x3" keywords="" />
          <object model="1878" name="gp_gratings_1" keywords="" />
          <object model="1879" name="gp_gratings_2" keywords="" />
          <object model="1880" name="gp_window_1" keywords="" />
@@ -85,6 +93,8 @@
          <object model="1492" name="gp_door_1" keywords="" />
          <object model="1494" name="gp_door_2" keywords="" />
          <object model="1499" name="gp_door_3" keywords="" />
+         <object model="14638" name="gp_door_4" keywords="" />
+         <object model="3281" name="gp_banner_1" keywords="" />
       </group>
       <group name="Accessories - DevPack">
          <object model="1518" name="dev_tv1" keywords="" />
