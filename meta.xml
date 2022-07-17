@@ -1,10 +1,12 @@
 <meta>
     <info author="THEGizmo and XeN" name="GizmoPack - Models And Texture Editor" version="1.8.9" />
 
-	<script src="c_config.lua" type="client" cache="false" />
+    <sync_map_element_data>true</sync_map_element_data>
+
+    <script src="c_config.lua" type="client" cache="false" />
     <script src="c_dev.luac" type="client" cache="false" />
     <script src="c_editor.luac" type="client" cache="false" />
-	<script src="c_model.luac" type="client" cache="false" />
+    <script src="c_model.luac" type="client" cache="false" />
     <script src="c_road.luac" type="client" cache="false" />
     <script src="c_textures.luac" type="client" cache="false" />
     <script src="c_utils.luac" type="client" cache="false" />
@@ -15,7 +17,7 @@
     <file src="version" />
     <file src="[editor]/editor_gui/client/browser/objects.xml" />
 
-	<!-- UI -->
+    <!-- UI -->
     <file src="ui/font/semibold.otf" />
     <file src="ui/icon/billboards.png" />
     <file src="ui/icon/floors.png" />
@@ -32,601 +34,601 @@
     <file src="ui/bg_main.png" />
     <file src="ui/bg_scroll.png" />
 
-	<!-- models -->
+    <!-- models -->
     <file src="models/gp_modular.txd"/>
 
-	<file src="models/gp_frame1_door1_2x3.dff"/>
-	<file src="models/gp_frame1_door1_2x3.col"/>
+    <file src="models/gp_frame1_door1_2x3.dff"/>
+    <file src="models/gp_frame1_door1_2x3.col"/>
 
-	<file src="models/gp_frame1_door1_4x3.dff"/>
-	<file src="models/gp_frame1_door1_4x3.col"/>
+    <file src="models/gp_frame1_door1_4x3.dff"/>
+    <file src="models/gp_frame1_door1_4x3.col"/>
 
-	<file src="models/gp_frame1_door2_4x3.dff"/>
-	<file src="models/gp_frame1_door2_4x3.col"/>
+    <file src="models/gp_frame1_door2_4x3.dff"/>
+    <file src="models/gp_frame1_door2_4x3.col"/>
 
-	<file src="models/gp_floor_2x2.dff"/>
-	<file src="models/gp_floor_2x2.col"/>
+    <file src="models/gp_floor_2x2.dff"/>
+    <file src="models/gp_floor_2x2.col"/>
 
-	<file src="models/gp_floor_4x4.dff"/>
-	<file src="models/gp_floor_4x4.col"/>
+    <file src="models/gp_floor_4x4.dff"/>
+    <file src="models/gp_floor_4x4.col"/>
 
-	<file src="models/gp_floor_8x8.dff"/>
-	<file src="models/gp_floor_8x8.col"/>
+    <file src="models/gp_floor_8x8.dff"/>
+    <file src="models/gp_floor_8x8.col"/>
 
-	<file src="models/gp_wall_2x3.dff"/>
-	<file src="models/gp_wall_2x3.col"/>
+    <file src="models/gp_wall_2x3.dff"/>
+    <file src="models/gp_wall_2x3.col"/>
 
-	<file src="models/gp_wall_4x3.dff"/>
-	<file src="models/gp_wall_4x3.col"/>
+    <file src="models/gp_wall_4x3.dff"/>
+    <file src="models/gp_wall_4x3.col"/>
 
-	<file src="models/gp_wall_8x3.dff"/>
-	<file src="models/gp_wall_8x3.col"/>
+    <file src="models/gp_wall_8x3.dff"/>
+    <file src="models/gp_wall_8x3.col"/>
 
     <file src="models/gp_wall_arch_2x3.dff"/>
-	<file src="models/gp_wall_arch_2x3.col"/>
+    <file src="models/gp_wall_arch_2x3.col"/>
 
-	<file src="models/gp_wall_arch_6x3.dff"/>
-	<file src="models/gp_wall_arch_6x3.col"/>
+    <file src="models/gp_wall_arch_6x3.dff"/>
+    <file src="models/gp_wall_arch_6x3.col"/>
 
-	<file src="models/gp_wall_arch_8x3.dff"/>
-	<file src="models/gp_wall_arch_8x3.col"/>
+    <file src="models/gp_wall_arch_8x3.dff"/>
+    <file src="models/gp_wall_arch_8x3.col"/>
 
-	<file src="models/gp_reception_1.dff"/>
-	<file src="models/gp_reception_1.col"/>
+    <file src="models/gp_reception_1.dff"/>
+    <file src="models/gp_reception_1.col"/>
 
-	<file src="models/gp_corner_1.dff"/>
-	<file src="models/gp_corner_1.col"/>
+    <file src="models/gp_corner_1.dff"/>
+    <file src="models/gp_corner_1.col"/>
 
-	<file src="models/gp_column_1.dff"/>
-	<file src="models/gp_column_1.col"/>
+    <file src="models/gp_column_1.dff"/>
+    <file src="models/gp_column_1.col"/>
 
     <file src="models/gp_column_2.dff"/>
-	<file src="models/gp_column_2.col"/>
+    <file src="models/gp_column_2.col"/>
 
-	<file src="models/gp_rounded_1.dff"/>
-	<file src="models/gp_rounded_1.col"/>
+    <file src="models/gp_rounded_1.dff"/>
+    <file src="models/gp_rounded_1.col"/>
 
     <file src="models/gp_rounded_2.dff"/>
-	<file src="models/gp_rounded_2.col"/>
+    <file src="models/gp_rounded_2.col"/>
 
     <file src="models/gp_rounded_3.dff"/>
-	<file src="models/gp_rounded_3.col"/>
+    <file src="models/gp_rounded_3.col"/>
 
     <file src="models/gp_rounded_4.dff"/>
-	<file src="models/gp_rounded_4.col"/>
+    <file src="models/gp_rounded_4.col"/>
 
-	<file src="models/gp_frame1_window1_2x3.dff"/>
-	<file src="models/gp_frame1_window1_2x3.col"/>
+    <file src="models/gp_frame1_window1_2x3.dff"/>
+    <file src="models/gp_frame1_window1_2x3.col"/>
 
-	<file src="models/gp_frame1_window2_4x3.dff"/>
-	<file src="models/gp_frame1_window2_4x3.col"/>
+    <file src="models/gp_frame1_window2_4x3.dff"/>
+    <file src="models/gp_frame1_window2_4x3.col"/>
 
-	<file src="models/gp_stairs.txd"/>
+    <file src="models/gp_stairs.txd"/>
 
-	<file src="models/gp_stairs_1.dff"/>
-	<file src="models/gp_stairs_1.col"/>
+    <file src="models/gp_stairs_1.dff"/>
+    <file src="models/gp_stairs_1.col"/>
 
-	<file src="models/gp_gate_1.dff"/>
-	<file src="models/gp_gate_1.col"/>
+    <file src="models/gp_gate_1.dff"/>
+    <file src="models/gp_gate_1.col"/>
 
     <file src="models/gp_handrail.txd"/>
 
     <file src="models/gp_handrail_1.dff"/>
-	<file src="models/gp_handrail_1.col"/>
+    <file src="models/gp_handrail_1.col"/>
 
-	<file src="models/gp_frame_gate_1.dff"/>
-	<file src="models/gp_frame_gate_1.col"/>
+    <file src="models/gp_frame_gate_1.dff"/>
+    <file src="models/gp_frame_gate_1.col"/>
 
-	<file src="models/gp_roof_1.dff"/>
-	<file src="models/gp_roof_1.col"/>
+    <file src="models/gp_roof_1.dff"/>
+    <file src="models/gp_roof_1.col"/>
 
-	<file src="models/gp_roof_2.dff"/>
-	<file src="models/gp_roof_2.col"/>
+    <file src="models/gp_roof_2.dff"/>
+    <file src="models/gp_roof_2.col"/>
 
     <file src="models/gp_prison.txd"/>
 
-	<file src="models/gp_prison_1.dff"/>
-	<file src="models/gp_prison_1.col"/>
+    <file src="models/gp_prison_1.dff"/>
+    <file src="models/gp_prison_1.col"/>
 
-	<file src="models/gp_prison_2.dff"/>
-	<file src="models/gp_prison_2.col"/>
+    <file src="models/gp_prison_2.dff"/>
+    <file src="models/gp_prison_2.col"/>
 
-	<file src="models/gp_door_arch_2x3.dff"/>
-	<file src="models/gp_door_arch_2x3.col"/>
+    <file src="models/gp_door_arch_2x3.dff"/>
+    <file src="models/gp_door_arch_2x3.col"/>
 
-	<file src="models/gp_door_arch_6x3.dff"/>
-	<file src="models/gp_door_arch_6x3.col"/>
+    <file src="models/gp_door_arch_6x3.dff"/>
+    <file src="models/gp_door_arch_6x3.col"/>
 
-	<file src="models/gp_door_arch_8x3.dff"/>
-	<file src="models/gp_door_arch_8x3.col"/>
+    <file src="models/gp_door_arch_8x3.dff"/>
+    <file src="models/gp_door_arch_8x3.col"/>
 
-	<file src="models/gp_gratings.txd"/>
+    <file src="models/gp_gratings.txd"/>
 
-	<file src="models/gp_gratings_1.dff"/>
-	<file src="models/gp_gratings_1.col"/>
+    <file src="models/gp_gratings_1.dff"/>
+    <file src="models/gp_gratings_1.col"/>
 
-	<file src="models/gp_gratings_2.dff"/>
-	<file src="models/gp_gratings_2.col"/>
+    <file src="models/gp_gratings_2.dff"/>
+    <file src="models/gp_gratings_2.col"/>
 
-	<file src="models/gp_window.txd"/>
+    <file src="models/gp_window.txd"/>
 
-	<file src="models/gp_window_1.dff"/>
-	<file src="models/gp_window_1.col"/>
+    <file src="models/gp_window_1.dff"/>
+    <file src="models/gp_window_1.col"/>
 
-	<file src="models/gp_window_2.dff"/>
-	<file src="models/gp_window_2.col"/>
+    <file src="models/gp_window_2.dff"/>
+    <file src="models/gp_window_2.col"/>
 
-	<file src="models/gp_window1_1x3.dff"/>
-	<file src="models/gp_window1_1x3.col"/>
+    <file src="models/gp_window1_1x3.dff"/>
+    <file src="models/gp_window1_1x3.col"/>
 
-	<file src="models/gp_window1_2x3.dff"/>
-	<file src="models/gp_window1_2x3.col"/>
+    <file src="models/gp_window1_2x3.dff"/>
+    <file src="models/gp_window1_2x3.col"/>
 
-	<file src="models/gp_window1_3x3.dff"/>
-	<file src="models/gp_window1_3x3.col"/>
+    <file src="models/gp_window1_3x3.dff"/>
+    <file src="models/gp_window1_3x3.col"/>
 
-	<file src="models/gp_picture.txd"/>
+    <file src="models/gp_picture.txd"/>
 
-	<file src="models/gp_picture_1.dff"/>
-	<file src="models/gp_picture_1.col"/>
+    <file src="models/gp_picture_1.dff"/>
+    <file src="models/gp_picture_1.col"/>
 
-	<file src="models/gp_picture_2.dff"/>
-	<file src="models/gp_picture_2.col"/>
+    <file src="models/gp_picture_2.dff"/>
+    <file src="models/gp_picture_2.col"/>
 
-	<file src="models/gp_picture_3.dff"/>
-	<file src="models/gp_picture_3.col"/>
+    <file src="models/gp_picture_3.dff"/>
+    <file src="models/gp_picture_3.col"/>
 
-	<file src="models/gp_picture_4.dff"/>
-	<file src="models/gp_picture_4.col"/>
+    <file src="models/gp_picture_4.dff"/>
+    <file src="models/gp_picture_4.col"/>
 
-	<file src="models/gp_picture_5.dff"/>
-	<file src="models/gp_picture_5.col"/>
+    <file src="models/gp_picture_5.dff"/>
+    <file src="models/gp_picture_5.col"/>
 
-	<file src="models/gp_picture_6.dff"/>
-	<file src="models/gp_picture_6.col"/>
+    <file src="models/gp_picture_6.dff"/>
+    <file src="models/gp_picture_6.col"/>
 
-	<file src="models/gp_frame2_door1_2x3.dff"/>
-	<file src="models/gp_frame2_door1_2x3.col"/>
+    <file src="models/gp_frame2_door1_2x3.dff"/>
+    <file src="models/gp_frame2_door1_2x3.col"/>
 
-	<file src="models/gp_frame2_door1_4x3.dff"/>
-	<file src="models/gp_frame2_door1_4x3.col"/>
+    <file src="models/gp_frame2_door1_4x3.dff"/>
+    <file src="models/gp_frame2_door1_4x3.col"/>
 
-	<file src="models/gp_frame2_door2_4x3.dff"/>
-	<file src="models/gp_frame2_door2_4x3.col"/>
+    <file src="models/gp_frame2_door2_4x3.dff"/>
+    <file src="models/gp_frame2_door2_4x3.col"/>
 
-	<file src="models/gp_channel_1.dff"/>
-	<file src="models/gp_channel_1.col"/>
+    <file src="models/gp_channel_1.dff"/>
+    <file src="models/gp_channel_1.col"/>
 
-	<file src="models/gp_floor_6x6.dff"/>
-	<file src="models/gp_floor_6x6.col"/>
+    <file src="models/gp_floor_6x6.dff"/>
+    <file src="models/gp_floor_6x6.col"/>
 
-	<file src="models/gp_wall_6x3.dff"/>
-	<file src="models/gp_wall_6x3.col"/>
+    <file src="models/gp_wall_6x3.dff"/>
+    <file src="models/gp_wall_6x3.col"/>
 
-	<file src="models/gp_billboard.txd"/>
+    <file src="models/gp_billboard.txd"/>
 
-	<file src="models/gp_billboard_1.dff"/>
-	<file src="models/gp_billboard_1.col"/>
+    <file src="models/gp_billboard_1.dff"/>
+    <file src="models/gp_billboard_1.col"/>
 
     <file src="models/gp_banner.txd"/>
-    
-	<file src="models/gp_banner_1.dff"/>
-	<file src="models/gp_banner_1.col"/>
 
-	<file src="models/gp_door.txd"/>
+    <file src="models/gp_banner_1.dff"/>
+    <file src="models/gp_banner_1.col"/>
 
-	<file src="models/gp_door_1.dff"/>
-	<file src="models/gp_door_1.col"/>
+    <file src="models/gp_door.txd"/>
 
-	<file src="models/gp_door_2.dff"/>
-	<file src="models/gp_door_2.col"/>
+    <file src="models/gp_door_1.dff"/>
+    <file src="models/gp_door_1.col"/>
 
-	<file src="models/gp_door_3.dff"/>
-	<file src="models/gp_door_3.col"/>
+    <file src="models/gp_door_2.dff"/>
+    <file src="models/gp_door_2.col"/>
+
+    <file src="models/gp_door_3.dff"/>
+    <file src="models/gp_door_3.col"/>
 
     <file src="models/gp_door_4.dff"/>
-	<file src="models/gp_door_4.col"/>
+    <file src="models/gp_door_4.col"/>
 
-	<file src="models/gp_tool.txd"/>
+    <file src="models/gp_tool.txd"/>
 
-	<file src="models/gp_tool_1.dff"/>
-	<file src="models/gp_tool_1.col"/>
+    <file src="models/gp_tool_1.dff"/>
+    <file src="models/gp_tool_1.col"/>
 
-	<file src="models/gp_tool_2.dff"/>
-	<file src="models/gp_tool_2.col"/>
+    <file src="models/gp_tool_2.dff"/>
+    <file src="models/gp_tool_2.col"/>
 
-	<file src="models/gp_tool_3.dff"/>
-	<file src="models/gp_tool_3.col"/>
+    <file src="models/gp_tool_3.dff"/>
+    <file src="models/gp_tool_3.col"/>
 
-	<file src="models/gp_tool_4.dff"/>
-	<file src="models/gp_tool_4.col"/>
+    <file src="models/gp_tool_4.dff"/>
+    <file src="models/gp_tool_4.col"/>
 
-	<file src="models/gp_tool_5.dff"/>
-	<file src="models/gp_tool_5.col"/>
+    <file src="models/gp_tool_5.dff"/>
+    <file src="models/gp_tool_5.col"/>
 
-	<file src="models/gp_tool_6.dff"/>
-	<file src="models/gp_tool_6.col"/>
+    <file src="models/gp_tool_6.dff"/>
+    <file src="models/gp_tool_6.col"/>
 
-	<file src="models/gp_tool_7.dff"/>
-	<file src="models/gp_tool_7.col"/>
+    <file src="models/gp_tool_7.dff"/>
+    <file src="models/gp_tool_7.col"/>
 
     <file src="models/gp_exhibition.txd"/>
 
-	<file src="models/gp_exhibition_1.dff"/>
-	<file src="models/gp_exhibition_1.col"/>
+    <file src="models/gp_exhibition_1.dff"/>
+    <file src="models/gp_exhibition_1.col"/>
 
-	<file src="models/gp_exhibition_2.dff"/>
-	<file src="models/gp_exhibition_2.col"/>
+    <file src="models/gp_exhibition_2.dff"/>
+    <file src="models/gp_exhibition_2.col"/>
 
     <file src="models/gp_railing.txd"/>
 
-	<file src="models/gp_railing_1.dff"/>
-	<file src="models/gp_railing_1.col"/>
+    <file src="models/gp_railing_1.dff"/>
+    <file src="models/gp_railing_1.col"/>
 
-	<file src="models/gp_railing_2.dff"/>
-	<file src="models/gp_railing_2.col"/>
+    <file src="models/gp_railing_2.dff"/>
+    <file src="models/gp_railing_2.col"/>
 
     <!-- road content -->
     <file src="roads/gp_road.txd"/>
 
-	<file src="roads/gp_road_1.dff"/>
-	<file src="roads/gp_road_1.col"/>
+    <file src="roads/gp_road_1.dff"/>
+    <file src="roads/gp_road_1.col"/>
 
     <file src="roads/gp_road_2.dff"/>
-	<file src="roads/gp_road_2.col"/>
+    <file src="roads/gp_road_2.col"/>
 
     <file src="roads/gp_road_3.dff"/>
-	<file src="roads/gp_road_3.col"/>
+    <file src="roads/gp_road_3.col"/>
 
     <file src="roads/gp_road_4.dff"/>
-	<file src="roads/gp_road_4.col"/>
+    <file src="roads/gp_road_4.col"/>
 
     <file src="roads/gp_road_5_20x20.dff"/>
-	<file src="roads/gp_road_5_20x20.col"/>
+    <file src="roads/gp_road_5_20x20.col"/>
 
     <file src="roads/gp_road_5_20x40.dff"/>
-	<file src="roads/gp_road_5_20x40.col"/>
+    <file src="roads/gp_road_5_20x40.col"/>
 
     <file src="roads/gp_road_5_20x60.dff"/>
-	<file src="roads/gp_road_5_20x60.col"/>
+    <file src="roads/gp_road_5_20x60.col"/>
 
     <file src="roads/gp_road_5_20x80.dff"/>
-	<file src="roads/gp_road_5_20x80.col"/>
+    <file src="roads/gp_road_5_20x80.col"/>
 
     <file src="roads/gp_surface_20x20.dff"/>
-	<file src="roads/gp_surface_20x20.col"/>
+    <file src="roads/gp_surface_20x20.col"/>
 
     <file src="roads/gp_surface_40x40.dff"/>
-	<file src="roads/gp_surface_40x40.col"/>
+    <file src="roads/gp_surface_40x40.col"/>
 
     <file src="roads/gp_surface_60x60.dff"/>
-	<file src="roads/gp_surface_60x60.col"/>
+    <file src="roads/gp_surface_60x60.col"/>
 
     <file src="roads/gp_surface_80x80.dff"/>
-	<file src="roads/gp_surface_80x80.col"/>
+    <file src="roads/gp_surface_80x80.col"/>
 
     <file src="roads/gp_hill_1.dff"/>
-	<file src="roads/gp_hill_1.col"/>
+    <file src="roads/gp_hill_1.col"/>
 
     <file src="roads/gp_hill_2.dff"/>
-	<file src="roads/gp_hill_2.col"/>
+    <file src="roads/gp_hill_2.col"/>
 
     <file src="roads/gp_hill_3_10x10.dff"/>
-	<file src="roads/gp_hill_3_10x10.col"/>
+    <file src="roads/gp_hill_3_10x10.col"/>
 
     <file src="roads/gp_hill_3_20x10.dff"/>
-	<file src="roads/gp_hill_3_20x10.col"/>
+    <file src="roads/gp_hill_3_20x10.col"/>
 
     <file src="roads/gp_hill_3_30x10.dff"/>
-	<file src="roads/gp_hill_3_30x10.col"/>
+    <file src="roads/gp_hill_3_30x10.col"/>
 
     <file src="roads/gp_hill_3_40x10.dff"/>
-	<file src="roads/gp_hill_3_40x10.col"/>
+    <file src="roads/gp_hill_3_40x10.col"/>
 
     <file src="roads/gp_line_1.dff"/>
-	<file src="roads/gp_line_1.col"/>
+    <file src="roads/gp_line_1.col"/>
 
     <file src="roads/gp_line_2.dff"/>
-	<file src="roads/gp_line_2.col"/>
-    
+    <file src="roads/gp_line_2.col"/>
+
     <!-- dev -->
     <file src="dev/dev_tv_all.txd" />
 
-	<file src="dev/dev_tv_1.dff" />
-	<file src="dev/dev_tv_1.col" />
+    <file src="dev/dev_tv_1.dff" />
+    <file src="dev/dev_tv_1.col" />
 
-	<file src="dev/dev_tv_2.dff" />
-	<file src="dev/dev_tv_2.col" />
+    <file src="dev/dev_tv_2.dff" />
+    <file src="dev/dev_tv_2.col" />
 
-	<file src="dev/dev_tv_3.dff" />
-	<file src="dev/dev_tv_3.col" />
+    <file src="dev/dev_tv_3.dff" />
+    <file src="dev/dev_tv_3.col" />
 
-	<file src="dev/dev_tv_4.dff" />
-	<file src="dev/dev_tv_4.col" />
+    <file src="dev/dev_tv_4.dff" />
+    <file src="dev/dev_tv_4.col" />
 
-	<file src="dev/dev_tv_5.dff" />
-	<file src="dev/dev_tv_5.col" />
+    <file src="dev/dev_tv_5.dff" />
+    <file src="dev/dev_tv_5.col" />
 
-	<file src="dev/dev_tv_6.dff" />
-	<file src="dev/dev_tv_6.col" />
+    <file src="dev/dev_tv_6.dff" />
+    <file src="dev/dev_tv_6.col" />
 
-	<file src="dev/dev_tv_7.dff" />
-	<file src="dev/dev_tv_7.col" />
+    <file src="dev/dev_tv_7.dff" />
+    <file src="dev/dev_tv_7.col" />
 
-	<file src="dev/dev_tv_8.dff" />
-	<file src="dev/dev_tv_8.col" />
+    <file src="dev/dev_tv_8.dff" />
+    <file src="dev/dev_tv_8.col" />
 
-	<file src="dev/dev_tv_9.dff" />
-	<file src="dev/dev_tv_9.col" />
+    <file src="dev/dev_tv_9.dff" />
+    <file src="dev/dev_tv_9.col" />
 
-	<file src="dev/dev_tv_10.dff" />
-	<file src="dev/dev_tv_10.col" />
+    <file src="dev/dev_tv_10.dff" />
+    <file src="dev/dev_tv_10.col" />
 
-	<file src="dev/dev_tv_11.dff" />
-	<file src="dev/dev_tv_11.col" />
+    <file src="dev/dev_tv_11.dff" />
+    <file src="dev/dev_tv_11.col" />
 
-	<file src="dev/dev_console_all.txd" />
+    <file src="dev/dev_console_all.txd" />
 
-	<file src="dev/dev_console_1.dff" />
-	<file src="dev/dev_console_1.col" />
+    <file src="dev/dev_console_1.dff" />
+    <file src="dev/dev_console_1.col" />
 
-	<file src="dev/dev_console_2.dff" />
-	<file src="dev/dev_console_2.col" />
+    <file src="dev/dev_console_2.dff" />
+    <file src="dev/dev_console_2.col" />
 
-	<file src="dev/dev_console_3.dff" />
-	<file src="dev/dev_console_3.col" />
+    <file src="dev/dev_console_3.dff" />
+    <file src="dev/dev_console_3.col" />
 
-	<file src="dev/dev_dvd_all.txd" />
+    <file src="dev/dev_dvd_all.txd" />
 
-	<file src="dev/dev_dvd_1.dff" />
-	<file src="dev/dev_dvd_1.col" />
+    <file src="dev/dev_dvd_1.dff" />
+    <file src="dev/dev_dvd_1.col" />
 
-	<file src="dev/dev_dvd_2.dff" />
-	<file src="dev/dev_dvd_2.col" />
+    <file src="dev/dev_dvd_2.dff" />
+    <file src="dev/dev_dvd_2.col" />
 
-	<file src="dev/dev_dvd_3.dff" />
-	<file src="dev/dev_dvd_3.col" />
+    <file src="dev/dev_dvd_3.dff" />
+    <file src="dev/dev_dvd_3.col" />
 
-	<file src="dev/dev_speaker_all.txd" />
+    <file src="dev/dev_speaker_all.txd" />
 
-	<file src="dev/dev_speaker_1.dff" />
-	<file src="dev/dev_speaker_1.col" />
+    <file src="dev/dev_speaker_1.dff" />
+    <file src="dev/dev_speaker_1.col" />
 
-	<file src="dev/dev_speaker_2.dff" />
-	<file src="dev/dev_speaker_2.col" />
+    <file src="dev/dev_speaker_2.dff" />
+    <file src="dev/dev_speaker_2.col" />
 
-	<file src="dev/dev_speaker_3.dff" />
-	<file src="dev/dev_speaker_3.col" />
+    <file src="dev/dev_speaker_3.dff" />
+    <file src="dev/dev_speaker_3.col" />
 
-	<file src="dev/dev_carpet_all.txd" />
+    <file src="dev/dev_carpet_all.txd" />
 
-	<file src="dev/dev_carpet_1.dff" />
-	<file src="dev/dev_carpet_1.col" />
+    <file src="dev/dev_carpet_1.dff" />
+    <file src="dev/dev_carpet_1.col" />
 
-	<file src="dev/dev_carpet_2.dff" />
-	<file src="dev/dev_carpet_2.col" />
+    <file src="dev/dev_carpet_2.dff" />
+    <file src="dev/dev_carpet_2.col" />
 
-	<file src="dev/dev_carpet_3.dff" />
-	<file src="dev/dev_carpet_3.col" />
+    <file src="dev/dev_carpet_3.dff" />
+    <file src="dev/dev_carpet_3.col" />
 
-	<file src="dev/dev_carpet_4.dff" />
-	<file src="dev/dev_carpet_4.col" />
+    <file src="dev/dev_carpet_4.dff" />
+    <file src="dev/dev_carpet_4.col" />
 
-	<file src="dev/dev_pc_all.txd" />
+    <file src="dev/dev_pc_all.txd" />
 
-	<file src="dev/dev_pc_1.dff" />
-	<file src="dev/dev_pc_1.col" />
+    <file src="dev/dev_pc_1.dff" />
+    <file src="dev/dev_pc_1.col" />
 
-	<file src="dev/dev_pc_2.dff" />
-	<file src="dev/dev_pc_2.col" />
+    <file src="dev/dev_pc_2.dff" />
+    <file src="dev/dev_pc_2.col" />
 
-	<file src="dev/dev_pc_3.dff" />
-	<file src="dev/dev_pc_3.col" />
+    <file src="dev/dev_pc_3.dff" />
+    <file src="dev/dev_pc_3.col" />
 
-	<file src="dev/dev_pc_4.dff" />
-	<file src="dev/dev_pc_4.col" />
+    <file src="dev/dev_pc_4.dff" />
+    <file src="dev/dev_pc_4.col" />
 
-	<file src="dev/dev_pc_5.dff" />
-	<file src="dev/dev_pc_5.col" />
+    <file src="dev/dev_pc_5.dff" />
+    <file src="dev/dev_pc_5.col" />
 
-	<file src="dev/dev_toilet_all.txd" />
+    <file src="dev/dev_toilet_all.txd" />
 
-	<file src="dev/dev_toilet_1.dff" />
-	<file src="dev/dev_toilet_1.col" />
+    <file src="dev/dev_toilet_1.dff" />
+    <file src="dev/dev_toilet_1.col" />
 
-	<file src="dev/dev_toilet_2.dff" />
-	<file src="dev/dev_toilet_2.col" />
+    <file src="dev/dev_toilet_2.dff" />
+    <file src="dev/dev_toilet_2.col" />
 
-	<file src="dev/dev_toilet_3.dff" />
-	<file src="dev/dev_toilet_3.col" />
+    <file src="dev/dev_toilet_3.dff" />
+    <file src="dev/dev_toilet_3.col" />
 
-	<file src="dev/dev_toilet_4.dff" />
-	<file src="dev/dev_toilet_4.col" />
+    <file src="dev/dev_toilet_4.dff" />
+    <file src="dev/dev_toilet_4.col" />
 
-	<file src="dev/dev_toilet_5.dff" />
-	<file src="dev/dev_toilet_5.col" />
+    <file src="dev/dev_toilet_5.dff" />
+    <file src="dev/dev_toilet_5.col" />
 
-	<file src="dev/dev_toilet_6.dff" />
-	<file src="dev/dev_toilet_6.col" />
+    <file src="dev/dev_toilet_6.dff" />
+    <file src="dev/dev_toilet_6.col" />
 
-	<file src="dev/dev_toilet_7.dff" />
-	<file src="dev/dev_toilet_7.col" />
+    <file src="dev/dev_toilet_7.dff" />
+    <file src="dev/dev_toilet_7.col" />
 
-	<file src="dev/dev_machine_all.txd" />
+    <file src="dev/dev_machine_all.txd" />
 
-	<file src="dev/dev_machine_1.dff" />
-	<file src="dev/dev_machine_1.col" />
+    <file src="dev/dev_machine_1.dff" />
+    <file src="dev/dev_machine_1.col" />
 
-	<file src="dev/dev_machine_2.dff" />
-	<file src="dev/dev_machine_2.col" />
+    <file src="dev/dev_machine_2.dff" />
+    <file src="dev/dev_machine_2.col" />
 
-	<file src="dev/dev_flower_all.txd" />
+    <file src="dev/dev_flower_all.txd" />
 
-	<file src="dev/dev_flower_1.dff" />
-	<file src="dev/dev_flower_1.col" />
+    <file src="dev/dev_flower_1.dff" />
+    <file src="dev/dev_flower_1.col" />
 
-	<file src="dev/dev_flower_2.dff" />
-	<file src="dev/dev_flower_2.col" />
+    <file src="dev/dev_flower_2.dff" />
+    <file src="dev/dev_flower_2.col" />
 
-	<file src="dev/dev_flower_3.dff" />
-	<file src="dev/dev_flower_3.col" />
+    <file src="dev/dev_flower_3.dff" />
+    <file src="dev/dev_flower_3.col" />
 
-	<file src="dev/dev_flower_4.dff" />
-	<file src="dev/dev_flower_4.col" />
+    <file src="dev/dev_flower_4.dff" />
+    <file src="dev/dev_flower_4.col" />
 
-	<file src="dev/dev_flower_5.dff" />
-	<file src="dev/dev_flower_5.col" />
+    <file src="dev/dev_flower_5.dff" />
+    <file src="dev/dev_flower_5.col" />
 
-	<file src="dev/dev_sofa_all.txd" />
+    <file src="dev/dev_sofa_all.txd" />
 
-	<file src="dev/dev_sofa_1.dff" />
-	<file src="dev/dev_sofa_1.col" />
+    <file src="dev/dev_sofa_1.dff" />
+    <file src="dev/dev_sofa_1.col" />
 
-	<file src="dev/dev_sofa_2.dff" />
-	<file src="dev/dev_sofa_2.col" />
+    <file src="dev/dev_sofa_2.dff" />
+    <file src="dev/dev_sofa_2.col" />
 
-	<file src="dev/dev_sofa_3.dff" />
-	<file src="dev/dev_sofa_3.col" />
+    <file src="dev/dev_sofa_3.dff" />
+    <file src="dev/dev_sofa_3.col" />
 
-	<file src="dev/dev_sofa_4.dff" />
-	<file src="dev/dev_sofa_4.col" />
+    <file src="dev/dev_sofa_4.dff" />
+    <file src="dev/dev_sofa_4.col" />
 
-	<file src="dev/dev_sofa_5.dff" />
-	<file src="dev/dev_sofa_5.col" />
+    <file src="dev/dev_sofa_5.dff" />
+    <file src="dev/dev_sofa_5.col" />
 
-	<file src="dev/dev_sofa_6.dff" />
-	<file src="dev/dev_sofa_6.col" />
+    <file src="dev/dev_sofa_6.dff" />
+    <file src="dev/dev_sofa_6.col" />
 
-	<file src="dev/dev_chair_all.txd" />
+    <file src="dev/dev_chair_all.txd" />
 
-	<file src="dev/dev_chair_1.dff" />
-	<file src="dev/dev_chair_1.col" />
+    <file src="dev/dev_chair_1.dff" />
+    <file src="dev/dev_chair_1.col" />
 
-	<file src="dev/dev_chair_2.dff" />
-	<file src="dev/dev_chair_2.col" />
+    <file src="dev/dev_chair_2.dff" />
+    <file src="dev/dev_chair_2.col" />
 
-	<file src="dev/dev_chair_3.dff" />
-	<file src="dev/dev_chair_3.col" />
+    <file src="dev/dev_chair_3.dff" />
+    <file src="dev/dev_chair_3.col" />
 
-	<file src="dev/dev_chair_4.dff" />
-	<file src="dev/dev_chair_4.col" />
+    <file src="dev/dev_chair_4.dff" />
+    <file src="dev/dev_chair_4.col" />
 
-	<file src="dev/dev_chair_5.dff" />
-	<file src="dev/dev_chair_5.col" />
+    <file src="dev/dev_chair_5.dff" />
+    <file src="dev/dev_chair_5.col" />
 
-	<file src="dev/dev_table_all.txd" />
+    <file src="dev/dev_table_all.txd" />
 
-	<file src="dev/dev_table_1.dff" />
-	<file src="dev/dev_table_1.col" />
+    <file src="dev/dev_table_1.dff" />
+    <file src="dev/dev_table_1.col" />
 
-	<file src="dev/dev_table_2.dff" />
-	<file src="dev/dev_table_2.col" />
+    <file src="dev/dev_table_2.dff" />
+    <file src="dev/dev_table_2.col" />
 
-	<file src="dev/dev_table_3.dff" />
-	<file src="dev/dev_table_3.col" />
+    <file src="dev/dev_table_3.dff" />
+    <file src="dev/dev_table_3.col" />
 
-	<file src="dev/dev_table_4.dff" />
-	<file src="dev/dev_table_4.col" />
+    <file src="dev/dev_table_4.dff" />
+    <file src="dev/dev_table_4.col" />
 
-	<file src="dev/dev_cupboard_all.txd" />
+    <file src="dev/dev_cupboard_all.txd" />
 
-	<file src="dev/dev_cupboard_1.dff" />
-	<file src="dev/dev_cupboard_1.col" />
+    <file src="dev/dev_cupboard_1.dff" />
+    <file src="dev/dev_cupboard_1.col" />
 
-	<file src="dev/dev_cupboard_2.dff" />
-	<file src="dev/dev_cupboard_2.col" />
+    <file src="dev/dev_cupboard_2.dff" />
+    <file src="dev/dev_cupboard_2.col" />
 
-	<file src="dev/dev_cupboard_3.dff" />
-	<file src="dev/dev_cupboard_3.col" />
+    <file src="dev/dev_cupboard_3.dff" />
+    <file src="dev/dev_cupboard_3.col" />
 
-	<file src="dev/dev_cupboard_4.dff" />
-	<file src="dev/dev_cupboard_4.col" />
+    <file src="dev/dev_cupboard_4.dff" />
+    <file src="dev/dev_cupboard_4.col" />
 
-	<file src="dev/dev_kitchen_all.txd" />
+    <file src="dev/dev_kitchen_all.txd" />
 
-	<file src="dev/dev_kitchen_1.dff" />
-	<file src="dev/dev_kitchen_1.col" />
+    <file src="dev/dev_kitchen_1.dff" />
+    <file src="dev/dev_kitchen_1.col" />
 
-	<file src="dev/dev_kitchen_2.dff" />
-	<file src="dev/dev_kitchen_2.col" />
+    <file src="dev/dev_kitchen_2.dff" />
+    <file src="dev/dev_kitchen_2.col" />
 
-	<file src="dev/dev_kitchen_3.dff" />
-	<file src="dev/dev_kitchen_3.col" />
+    <file src="dev/dev_kitchen_3.dff" />
+    <file src="dev/dev_kitchen_3.col" />
 
-	<file src="dev/dev_kitchen_4.dff" />
-	<file src="dev/dev_kitchen_4.col" />
+    <file src="dev/dev_kitchen_4.dff" />
+    <file src="dev/dev_kitchen_4.col" />
 
-	<file src="dev/dev_kitchen_5.dff" />
-	<file src="dev/dev_kitchen_5.col" />
+    <file src="dev/dev_kitchen_5.dff" />
+    <file src="dev/dev_kitchen_5.col" />
 
-	<file src="dev/dev_tool_all.txd" />
+    <file src="dev/dev_tool_all.txd" />
 
-	<file src="dev/dev_tool_1.dff" />
-	<file src="dev/dev_tool_1.col" />
+    <file src="dev/dev_tool_1.dff" />
+    <file src="dev/dev_tool_1.col" />
 
-	<file src="dev/dev_tool_2.dff" />
-	<file src="dev/dev_tool_2.col" />
+    <file src="dev/dev_tool_2.dff" />
+    <file src="dev/dev_tool_2.col" />
 
-	<file src="dev/dev_tool_3.dff" />
-	<file src="dev/dev_tool_3.col" />
+    <file src="dev/dev_tool_3.dff" />
+    <file src="dev/dev_tool_3.col" />
 
-	<file src="dev/dev_tool_4.dff" />
-	<file src="dev/dev_tool_4.col" />
+    <file src="dev/dev_tool_4.dff" />
+    <file src="dev/dev_tool_4.col" />
 
-	<file src="dev/dev_tool_5.dff" />
-	<file src="dev/dev_tool_5.col" />
+    <file src="dev/dev_tool_5.dff" />
+    <file src="dev/dev_tool_5.col" />
 
-	<file src="dev/dev_tool_6.dff" />
-	<file src="dev/dev_tool_6.col" />
+    <file src="dev/dev_tool_6.dff" />
+    <file src="dev/dev_tool_6.col" />
 
-	<file src="dev/dev_tool_7.dff" />
-	<file src="dev/dev_tool_7.col" />
+    <file src="dev/dev_tool_7.dff" />
+    <file src="dev/dev_tool_7.col" />
 
-	<file src="dev/dev_tool_8.dff" />
-	<file src="dev/dev_tool_8.col" />
+    <file src="dev/dev_tool_8.dff" />
+    <file src="dev/dev_tool_8.col" />
 
-	<file src="dev/dev_tool_9.dff" />
-	<file src="dev/dev_tool_9.col" />
+    <file src="dev/dev_tool_9.dff" />
+    <file src="dev/dev_tool_9.col" />
 
-	<file src="dev/dev_tool_10.dff" />
-	<file src="dev/dev_tool_10.col" />
+    <file src="dev/dev_tool_10.dff" />
+    <file src="dev/dev_tool_10.col" />
 
-	<file src="dev/dev_tool_11.dff" />
-	<file src="dev/dev_tool_11.col" />
+    <file src="dev/dev_tool_11.dff" />
+    <file src="dev/dev_tool_11.col" />
 
-	<file src="dev/dev_tool_12.dff" />
-	<file src="dev/dev_tool_12.col" />
+    <file src="dev/dev_tool_12.dff" />
+    <file src="dev/dev_tool_12.col" />
 
-	<file src="dev/dev_tool_13.dff" />
-	<file src="dev/dev_tool_13.col" />
+    <file src="dev/dev_tool_13.dff" />
+    <file src="dev/dev_tool_13.col" />
 
-	<file src="dev/dev_other_all.txd" />
+    <file src="dev/dev_other_all.txd" />
 
-	<file src="dev/dev_other_1.dff" />
-	<file src="dev/dev_other_1.col" />
+    <file src="dev/dev_other_1.dff" />
+    <file src="dev/dev_other_1.col" />
 
-	<file src="dev/dev_other_2.dff" />
-	<file src="dev/dev_other_2.col" />
+    <file src="dev/dev_other_2.dff" />
+    <file src="dev/dev_other_2.col" />
 
-	<file src="dev/dev_other_3.dff" />
-	<file src="dev/dev_other_3.col" />
+    <file src="dev/dev_other_3.dff" />
+    <file src="dev/dev_other_3.col" />
 
-	<file src="dev/dev_other_4.dff" />
-	<file src="dev/dev_other_4.col" />
+    <file src="dev/dev_other_4.dff" />
+    <file src="dev/dev_other_4.col" />
 
-	<file src="dev/dev_other_5.dff" />
-	<file src="dev/dev_other_5.col" />
+    <file src="dev/dev_other_5.dff" />
+    <file src="dev/dev_other_5.col" />
 
-	<file src="dev/dev_other_6.dff" />
-	<file src="dev/dev_other_6.col" />
+    <file src="dev/dev_other_6.dff" />
+    <file src="dev/dev_other_6.col" />
 
-	<file src="dev/dev_other_7.dff" />
-	<file src="dev/dev_other_7.col" />
+    <file src="dev/dev_other_7.dff" />
+    <file src="dev/dev_other_7.col" />
 
-	<file src="dev/dev_other_8.dff" />
-	<file src="dev/dev_other_8.col" />
+    <file src="dev/dev_other_8.dff" />
+    <file src="dev/dev_other_8.col" />
 
-	<!-- textures -->
+    <!-- textures -->
     <file src="textures/1.jpg" />
     <file src="textures/2.jpg" />
     <file src="textures/3.jpg" />
