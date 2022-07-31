@@ -1,6 +1,6 @@
 <catalog type="object">
 
-   <group name="A Object Pack - Gizmo Pack v.1.8.9">
+   <group name="A Object Pack - Gizmo Pack v.1.9.3">
       <group name="Modular Road Content *BETA*">
          <object model="10743" name="gp_road_1" keywords="" />
          <object model="10741" name="gp_road_2" keywords="" />
@@ -48,6 +48,10 @@
          <object model="1860" name="gp_wall_4x3" keywords="" />
          <object model="1912" name="gp_wall_6x3" keywords="" />
          <object model="1861" name="gp_wall_8x3" keywords="" />
+         <object model="1921" name="gp_floor_rounded_1" keywords="" />
+         <object model="1922" name="gp_floor_rounded_2" keywords="" />
+         <object model="1923" name="gp_floor_rounded_3" keywords="" />
+         <object model="1924" name="gp_floor_rounded_4" keywords="" />
          <object model="1862" name="gp_reception_1" keywords="" />
          <object model="1863" name="gp_corner_1" keywords="" />
          <object model="1864" name="gp_column_1" keywords="" />
