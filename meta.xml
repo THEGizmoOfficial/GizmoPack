@@ -1,5 +1,7 @@
 <meta>
-    <info author="THEGizmo and XeN" name="GizmoPack - Models And Texture Editor" version="1.8.9" />
+    <info author="THEGizmo and XeN" name="GizmoPack - Models And Texture Editor" version="1.9.3" />
+
+    <min_mta_version client="1.5.8" server="1.5.8" />
 
     <sync_map_element_data>true</sync_map_element_data>
 
@@ -96,6 +98,18 @@
 
     <file src="models/gp_rounded_4.dff"/>
     <file src="models/gp_rounded_4.col"/>
+
+    <file src="models/gp_floor_rounded_1.dff"/>
+    <file src="models/gp_floor_rounded_1.col"/>
+
+    <file src="models/gp_floor_rounded_2.dff"/>
+    <file src="models/gp_floor_rounded_2.col"/>
+
+    <file src="models/gp_floor_rounded_3.dff"/>
+    <file src="models/gp_floor_rounded_3.col"/>
+
+    <file src="models/gp_floor_rounded_4.dff"/>
+    <file src="models/gp_floor_rounded_4.col"/>
 
     <file src="models/gp_frame1_window1_2x3.dff"/>
     <file src="models/gp_frame1_window1_2x3.col"/>
