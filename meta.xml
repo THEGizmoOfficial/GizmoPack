@@ -1,5 +1,5 @@
 <meta>
-    <info author="THEGizmo and XeN" name="GizmoPack - Models And Texture Editor" version="1.9.4" />
+    <info author="THEGizmo and XeN" name="GizmoPack - Models And Texture Editor" version="1.9.8" />
 
     <sync_map_element_data>true</sync_map_element_data>
 
@@ -350,6 +350,22 @@
 
     <file src="models/gizmopack/gp_line_2.dff"/>
     <file src="models/gizmopack/gp_line_2.col"/>
+
+    <!--Valentine Content-->
+
+    <file src="models/gizmopack/gp_valentine_content.txd"/>
+
+    <file src="models/gizmopack/gp_condoms_1.dff"/>
+    <file src="models/gizmopack/gp_condoms_1.col"/>
+
+    <file src="models/gizmopack/gp_massager_1.dff"/>
+    <file src="models/gizmopack/gp_massager_1.col"/>
+
+    <file src="models/gizmopack/gp_balloon_1.dff"/>
+    <file src="models/gizmopack/gp_balloon_1.col"/>
+
+    <file src="models/gizmopack/gp_heart_1.dff"/>
+    <file src="models/gizmopack/gp_heart_1.col"/>
 
     <!--Dev-->
     <file src="models/dev/dev_tv_all.txd" />
