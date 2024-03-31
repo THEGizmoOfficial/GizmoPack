@@ -1,6 +1,6 @@
 <catalog type="object">
 
-   <group name="A Object Pack - Gizmo Pack v.2.0.0">
+   <group name="A Object Pack - Gizmo Pack v.2.0.1">
       <group name="Modular Road Content *BETA*">
          <object model="10743" name="gp_road_1" keywords="" />
          <object model="10741" name="gp_road_2" keywords="" />
