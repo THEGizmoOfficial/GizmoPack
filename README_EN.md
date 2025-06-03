@@ -1,3 +1,4 @@
+# NOTE! this version will be archived and finally removed soon, new version (of the old version) with improved code, new features and optimizations can be found here [GizmoPack Legacy](https://github.com/THEGizmoOfficial/GizmoPack-Legacy) soon😎
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="[logos]/GizmoPack_Original_White_Orange.svg">
     <source media="(prefers-color-scheme: light)" srcset="[logos]/GizmoPack_Original_Black_Orange.svg">
